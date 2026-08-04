@@ -20,3 +20,8 @@ All layers are validated together to ensure consistent behavior across supported
 ## Usage
 
 The code licenses of each repo cover code contributions and redistribution.
+
+## Status
+
+Once founders have integrated and validated the layers together and set up arrangements for making commits, code will appear in the respective repos. Watch this space!
+
