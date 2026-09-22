@@ -11,7 +11,7 @@ The github organization has been started with repositories for four projects:
 - **cuFile:** Defines the cuFile API as a unifying interface, extensible to new features and multiple platforms
 - **cuFileConformance:** Provides a conformance test suite to ensure interoperability and prevent ecosystem fragmentation.
 - **libxFile:** Implements one of potentially multiple user-level libraries that implement cuFile APIs for multiple platforms
-- **xioLinux:** A downstream forked full kernel contains enhancements required to support cuFile and libxFile
+- **xFileLinux:** A downstream forked full kernel contains enhancements required to support cuFile and libxFile
 
 ## Integration Model
 
